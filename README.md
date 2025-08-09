@@ -38,9 +38,8 @@ Includes **power-ups**, **score multipliers**, and a **self-playing AI mode** th
 ## 🚀 How to Run
 
 1. **Download** or **clone** the project:
-```bash
-   git clone https://github.com/your-username/flappy-bird-plus.git
-````
+
+git clone https://github.com/your-username/flappy-bird-plus.git
 
 2. Open `index.html` in any modern browser.
 3. Play or let the AI do the work! 🎯
